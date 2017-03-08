@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 /* This is an example of a "while" loop in c programing */
 void main( )
 {
